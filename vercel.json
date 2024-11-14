@@ -25,7 +25,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://XXXXXXX.vercel.app",
+        "APP_URL": "https://pruebita-seven.vercel.app/",
         "APP_KEY": "base64:E21Sg0gml3gI8lOqF9AYf+N03Vji/o3aNW6T3y4pBkA=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
